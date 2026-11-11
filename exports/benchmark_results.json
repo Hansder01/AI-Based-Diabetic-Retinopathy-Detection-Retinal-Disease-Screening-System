@@ -1,0 +1,59 @@
+{
+    "ordinal_dr_benchmark": {
+        "dataset": "APTOS 2019 Validation",
+        "evaluated_samples": 100,
+        "quadratic_weighted_kappa": 0.6969,
+        "mean_absolute_error": 0.48,
+        "accuracy": 0.66,
+        "macro_f1": 0.371,
+        "exact_matches_percent": 66.0,
+        "one_grade_off_percent": 22.0,
+        "severe_misses_percent": 12.0,
+        "mean_confidence": 0.5739,
+        "high_confidence_rate": 32.0,
+        "confusion_matrix": [
+            [
+                39,
+                4,
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                4,
+                9,
+                0,
+                0
+            ],
+            [
+                2,
+                3,
+                23,
+                0,
+                0
+            ],
+            [
+                0,
+                1,
+                6,
+                0,
+                0
+            ],
+            [
+                0,
+                2,
+                7,
+                0,
+                0
+            ]
+        ]
+    },
+    "unet_segmentation_benchmark": {
+        "dataset": "FIVES Test Cohort",
+        "evaluated_pairs": 30,
+        "mean_dice_coefficient": 0.1376,
+        "mean_iou_score": 0.0748,
+        "mean_vessel_density_percent": 57.15
+    }
+}
