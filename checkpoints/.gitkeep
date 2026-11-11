@@ -1,0 +1,2 @@
+# Keep checkpoints directory tracked in git while ignoring binary weight files (.keras / .h5)
+
