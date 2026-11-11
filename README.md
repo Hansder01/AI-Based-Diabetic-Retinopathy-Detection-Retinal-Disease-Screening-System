@@ -5,15 +5,6 @@
 [![Keras](https://img.shields.io/badge/Keras-3.0-red.svg)](https://keras.io/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.67-brightgreen.svg)](https://streamlit.io/)
 
-> **Project Team**: No Bugs Attached  
-> **Team Members**:
-> - Sayan Bhanja Chowdhury (`A914145025009`)
-> - Subhajeet Bhattacharyya (`A914145025012`)
-> - Bishnu Brata Shome (`A914145025045`)
-> - Soumodeep Biswas (`A914145025041`)
-> - Bikram Mondal (`A914192725005`)
-> - Asmit Kumar (`A914192725010`)
-
 ---
 
 ## 1. Project Overview
