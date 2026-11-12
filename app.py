@@ -173,19 +173,6 @@ st.sidebar.markdown("""
 st.markdown('<div class="main-header">AI-Based Diabetic Retinopathy Screening System</div>', unsafe_allow_html=True)
 st.markdown('<div class="sub-header">Deep Learning for Ordinal Severity Grading, Disease Analysis, and Vessel Segmentation in Retinal Fundus Images</div>', unsafe_allow_html=True)
 
-st.markdown("""
-<div class="team-badge">
-    <strong>Project Team: No Bugs Attached</strong> | 
-    Sayan Bhanja Chowdhury (A914145025009) &bull; 
-    Subhajeet Bhattacharyya (A914145025012) &bull; 
-    Bishnu Brata Shome (A914145025045) &bull; 
-    Soumodeep Biswas (A914145025041) &bull; 
-    Bikram Mondal (A914192725005) &bull; 
-    Asmit Kumar (A914192725010)
-</div>
-""", unsafe_allow_html=True)
-
-
 # ---------------------------------------------------------------------
 # Clinical Inference Execution
 # ---------------------------------------------------------------------
